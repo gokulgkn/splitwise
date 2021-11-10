@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636555210 source:f:\program\c++\splitwise\main.cpp
+	<iostream>
+	<cmath>
+
